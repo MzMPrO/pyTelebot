@@ -10,7 +10,7 @@ from aiogram.types import InputFile
 from buttons import *
 from aiogram.dispatcher.filters import BoundFilter
 
-API_TOKEN = '6516759967:AAEHM0fh5iQLSQ-U4Bxl_NWqyrhpdF8_o40'
+API_TOKEN = ''
 CHANNEL_ID = -1002116744718
 ADMIN_USER_ID = [976658539]
 logging.basicConfig(level=logging.INFO)
